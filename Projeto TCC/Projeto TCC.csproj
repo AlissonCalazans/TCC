@@ -1,0 +1,68 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Projeto_TCC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IMG\fundologinjpg.jpg\**" />
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta\**" />
+    <Content Remove="IMG\fundologinjpg.jpg\**" />
+    <Content Remove="NovaPasta1\**" />
+    <Content Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="IMG\fundologinjpg.jpg\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <None Remove="IMG\fundologinjpg.jpg\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\LoginController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Css\Index.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="IMG\abstract.png" />
+    <Content Include="IMG\android-chrome-192x192.png" />
+    <Content Include="IMG\android-chrome-512x512.png" />
+    <Content Include="IMG\apple-touch-icon.png" />
+    <Content Include="IMG\bus-animation.gif" />
+    <Content Include="IMG\buson-semfundo.png" />
+    <Content Include="IMG\edinburgh.jpg" />
+    <Content Include="IMG\favicon-16x16.png" />
+    <Content Include="IMG\favicon-32x32.png" />
+    <Content Include="IMG\favicon.ico" />
+    <Content Include="IMG\fundologin.jpg" />
+    <Content Include="IMG\laranjais.jpg" />
+    <Content Include="IMG\Praia-Grande.webp" />
+    <Content Include="IMG\PraiaGrande.jpg" />
+    <Content Include="IMG\torcida.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\style-login.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
