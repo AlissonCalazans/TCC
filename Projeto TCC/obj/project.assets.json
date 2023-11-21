@@ -2899,11 +2899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Projeto-TCC-main\\Projeto-TCC-main\\Projeto TCC\\Projeto TCC.csproj",
+      "projectUniqueName": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Git\\Projetos em Andamento\\TCC\\tcc\\Projeto TCC\\Projeto TCC.csproj",
       "projectName": "Projeto TCC",
-      "projectPath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Projeto-TCC-main\\Projeto-TCC-main\\Projeto TCC\\Projeto TCC.csproj",
+      "projectPath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Git\\Projetos em Andamento\\TCC\\tcc\\Projeto TCC\\Projeto TCC.csproj",
       "packagesPath": "C:\\Users\\Alisson Calazans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Projeto-TCC-main\\Projeto-TCC-main\\Projeto TCC\\obj\\",
+      "outputPath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Git\\Projetos em Andamento\\TCC\\tcc\\Projeto TCC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

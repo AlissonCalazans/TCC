@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto TCC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b9b93f6ed4deab01bbeab4cd229cfa904473c4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto TCC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto TCC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

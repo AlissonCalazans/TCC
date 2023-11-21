@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+UXcP3l1j+HneqWOhBtr5r56g54hjmjjkH+PbP52Q7LUHSPAujbxq7zlba20anH4m6xg+RKx3oVKLoVVrNjsA==",
+  "dgSpecHash": "S0FHpRh3B4r+VR4OlQv0HAhWZrtTHN+HKa0sDW1X/86rVFPm/GFpbYLiLAURa9lJGcMsQRY+S9y6TM0BwrVFPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Projeto-TCC-main\\Projeto-TCC-main\\Projeto TCC\\Projeto TCC.csproj",
+  "projectFilePath": "C:\\Users\\Alisson Calazans\\OneDrive\\Área de Trabalho\\Git\\Projetos em Andamento\\TCC\\tcc\\Projeto TCC\\Projeto TCC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alisson Calazans\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Alisson Calazans\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

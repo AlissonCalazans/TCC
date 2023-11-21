@@ -15,6 +15,10 @@ namespace Projeto_TCC.Controllers
         {
             return View("Login");
         }
+        public ActionResult Contatos()
+        {
+            return View("Contatos");
+        }
 
         [HttpPost]
         [Route("Home/Validar")]
